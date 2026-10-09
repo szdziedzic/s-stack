@@ -1,4 +1,4 @@
-# s-stack
+# szymon-stack
 
 Skills for reviewing GitHub pull requests and stacks of dependent PRs.
 
@@ -28,7 +28,7 @@ It does not work in a chat-only assistant that cannot run commands.
 
 ## Install
 
-Install the **s-stack** plugin from the plugin directory of your agent.
+Install the **szymon-stack** plugin from the plugin directory of your agent.
 
 To install by hand, clone this repository and copy `skills/s-stack-review` into your agent's skills directory. For Codex, the default user skills directory is `~/.codex/skills`.
 
