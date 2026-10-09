@@ -2,7 +2,7 @@
 
 Effective date: 9 October 2026
 
-This notice covers the **s-stack** plugin and its skills, including **s-stack-review**. It is published by Szymon Dziedzic.
+This notice covers the **szymon-stack** plugin and its skills, including **s-stack-review**. It is published by Szymon Dziedzic.
 
 ## What the plugin does
 
