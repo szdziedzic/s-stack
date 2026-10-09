@@ -1,0 +1,13 @@
+{
+  "author": {
+    "name": "Szymon Dziedzic"
+  },
+  "name": "s-stack",
+  "version": "1.0.0",
+  "description": "Review GitHub pull requests and stacks of dependent PRs, one layer at a time, with a verdict, simple diagrams, a design judgment, and copy-paste review comments.",
+  "repository": "https://github.com/szdziedzic/s-stack",
+  "homepage": "https://github.com/szdziedzic/s-stack",
+  "documentationUrl": "https://github.com/szdziedzic/s-stack#readme",
+  "supportUrl": "https://github.com/szdziedzic/s-stack/issues",
+  "privacyPolicyUrl": "https://github.com/szdziedzic/s-stack/blob/main/PRIVACY.md"
+}
