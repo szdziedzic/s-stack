@@ -1,6 +1,6 @@
 ---
-name: s-stack-review
-description: Review a GitHub pull request or a stack of dependent PRs, one layer at a time, and report a verdict, a simple explanation with diagrams, a design judgment, and prioritized comments with verified line anchors and a copy-paste version of each comment. Use when the user runs /s-stack-review, or asks to review a PR or PR stack in this format.
+name: szymon-stack
+description: Review a GitHub pull request or a stack of dependent PRs, one layer at a time, and report a verdict, a simple explanation with diagrams, a design judgment, and prioritized comments with verified line anchors and a copy-paste version of each comment. Use when the user runs /szymon-stack, or asks to review a PR or PR stack in this format.
 ---
 
 # Stack review
