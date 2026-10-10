@@ -89,6 +89,10 @@ This notice makes no promise about the retention, training, or other data practi
 
 For questions, bugs, or a security concern, use [the repository issue tracker](https://github.com/szdziedzic/s-stack/issues). Issues are public. Do not post secrets, access tokens, personal information, private source code, or sensitive exploit details. Use a minimal example with invented data.
 
+## Changes
+
+- 1.0.1: The skill is now named `szymon-stack`. Invoke it with `/szymon-stack`.
+
 ## Support and security reports
 
 Use [GitHub issues](https://github.com/szdziedzic/s-stack/issues) for questions, bugs, or an initial security report. This is a public channel. Do not include secrets, personal information, private source code, or sensitive exploit details. Use a minimal example with invented data.
