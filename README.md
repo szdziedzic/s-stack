@@ -2,7 +2,7 @@
 
 Skills for reviewing GitHub pull requests and stacks of dependent PRs.
 
-Version: 1.0.1
+Version: 1.0.2
 
 ## szymon-stack skill
 
@@ -91,6 +91,7 @@ For questions, bugs, or a security concern, use [the repository issue tracker](h
 
 ## Changes
 
+- 1.0.2: Claude now takes new versions from the `pluginlabs-release` branch.
 - 1.0.1: The skill is now named `szymon-stack`. Invoke it with `/szymon-stack`.
 
 ## Support and security reports
