@@ -1,6 +1,6 @@
 {
   "name": "szymon-stack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Review GitHub pull requests and stacks of dependent PRs, one layer at a time, with a verdict, simple diagrams, a design judgment, and copy-paste review comments.",
   "author": {
     "name": "Szymon Dziedzic"
